@@ -29,6 +29,7 @@ X U L A B   C O L L E C T I V E  //  V C u t 2 D A W
 - **[R&D Roadmap & Master Plan](ROADMAP.md)** // *Continuous QA and Education tracks plus 3-Phase Strategic Plan: Open-source AI-integrated tools, Collective AI Weights on local silicon, and Autonomous Practitioner Squads.*
 - **Xulab Discord:** **[https://discord.gg/ZCFHD5qHgJ](https://discord.gg/ZCFHD5qHgJ)** // *Central Hub, Working Groups, and Peer Collaboration*
 - **Telegram Channel:** **[https://t.me/xulabcollective](https://t.me/xulabcollective)**
+- **WhatsApp Channel:** **[https://whatsapp.com/channel/0029VbEM99jDuMRWtFLqta2f](https://whatsapp.com/channel/0029VbEM99jDuMRWtFLqta2f)**
 - **YouTube Channel:** **[https://www.youtube.com/@xulab-collective](https://www.youtube.com/@xulab-collective)**
 - **Xulab GitHub Org:** **[github.com/xulab-collective](https://github.com/xulab-collective)** · **Founding Architect:** **[@Rhinofug](https://github.com/rhinofug)** · **Co-Architect:** **[@Parapazula](https://github.com/Parapazula)**
 

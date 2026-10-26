@@ -77,8 +77,8 @@ PROTOKOL     Bkz. PROTOCOL.md
 KOLEKTİF     https://github.com/xulab-collective  // Kod, Issues & GitHub Discussions
 MİMARLAR     Furkan Utku Gerçik // @Rhinofug // Founding Architect // https://github.com/rhinofug // https://x.com/Rhinofug
              Muhammed Kol // @Parapazula // Co-Architect // https://github.com/Parapazula
-TOPLULUK     [DISCORD_INVITE_URI] // Discord Developer & Practitioner Collective
-YAYIN        [YOUTUBE_URI] // [TELEGRAM_CHANNEL_URI] // [WHATSAPP_CHANNEL_URI]
+TOPLULUK     https://discord.gg/ZCFHD5qHgJ // Discord Developer & Practitioner Collective
+YAYIN        https://www.youtube.com/@xulab-collective // https://t.me/xulabcollective // https://whatsapp.com/channel/0029VbEM99jDuMRWtFLqta2f
 ------------------------------------------------------------------------
 ```
 
@@ -154,7 +154,7 @@ PROTOCOL    See PROTOCOL.md
 COLLECTIVE  https://github.com/xulab-collective  // Code, Issues & GitHub Discussions
 ARCHITECTS  Furkan Utku Gerçik // @Rhinofug // Founding Architect // https://github.com/rhinofug // https://x.com/Rhinofug
             Muhammed Kol // @Parapazula // Co-Architect // https://github.com/Parapazula
-COMMUNITY   [DISCORD_INVITE_URI] // Discord Developer & Practitioner Collective
-BROADCAST   [YOUTUBE_URI] // [TELEGRAM_CHANNEL_URI] // [WHATSAPP_CHANNEL_URI]
+COMMUNITY   https://discord.gg/ZCFHD5qHgJ // Discord Developer & Practitioner Collective
+BROADCAST   https://www.youtube.com/@xulab-collective // https://t.me/xulabcollective // https://whatsapp.com/channel/0029VbEM99jDuMRWtFLqta2f
 ------------------------------------------------------------------------
 ```

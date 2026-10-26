@@ -16,7 +16,7 @@ Architects             : Furkan Utku Gercik // @Rhinofug - Founding Architect
                          Muhammed Kol // @Parapazula - Co-Architect
 Repository             : https://github.com/xulab-collective/VCut2DAW
 Discord Commons        : https://discord.gg/ZCFHD5qHgJ
-Broadcast Channels     : https://t.me/xulabcollective  |  https://www.youtube.com/@xulab-collective
+Broadcast Channels     : https://t.me/xulabcollective  |  WhatsApp: https://whatsapp.com/channel/0029VbEM99jDuMRWtFLqta2f  |  https://www.youtube.com/@xulab-collective
 
 -------------------------------------------------------------------------------------------------
 

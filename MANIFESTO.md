@@ -50,8 +50,8 @@ MİMARLAR     Furkan Utku Gerçik // @Rhinofug // Founding Architect // https://
              Muhammed Kol // @Parapazula // Co-Architect // https://github.com/Parapazula
 KURAL KİTABI PROTOCOL.md // Proje Modelleri, AGPLv3, Dual-License & Gelir Payı Havuzu
 YOL HARİTASI ROADMAP.md  // Evre 1-3 Harekat Planı & AR-GE Hedefleri
-ORTAK MEYDAN [DISCORD_INVITE_URI] // Discord Topluluk, Eğitim, Debug & Collab Meydanı
-YAYIN        [YOUTUBE_URI] // [TELEGRAM_CHANNEL_URI] // [WHATSAPP_CHANNEL_URI]
+ORTAK MEYDAN https://discord.gg/ZCFHD5qHgJ // Discord Topluluk, Eğitim, Debug & Collab Meydanı
+YAYIN        https://www.youtube.com/@xulab-collective // https://t.me/xulabcollective // https://whatsapp.com/channel/0029VbEM99jDuMRWtFLqta2f
 LİSANS       AGPLv3 // Copyfarleft Üretim Sınırlı Açık Lisans // Dual-License
 ------------------------------------------------------------------------
 ```
@@ -98,8 +98,8 @@ ARCHITECTS  Furkan Utku Gerçik // @Rhinofug // Founding Architect // https://gi
             Muhammed Kol // @Parapazula // Co-Architect // https://github.com/Parapazula
 RULEBOOK    PROTOCOL.md // Project Models, AGPLv3, Dual-License & Profit Pool
 ROADMAP     ROADMAP.md  // Phases 1-3 Campaign Plan & R&D Targets
-COMMONS     [DISCORD_INVITE_URI] // Discord Community, Education, Debug & Collab
-BROADCAST   [YOUTUBE_URI] // [TELEGRAM_CHANNEL_URI] // [WHATSAPP_CHANNEL_URI]
+COMMONS     https://discord.gg/ZCFHD5qHgJ // Discord Community, Education, Debug & Collab
+BROADCAST   https://www.youtube.com/@xulab-collective // https://t.me/xulabcollective // https://whatsapp.com/channel/0029VbEM99jDuMRWtFLqta2f
 LICENSE     AGPLv3 // Copyfarleft Production-Bounded License // Dual-License
 ------------------------------------------------------------------------
 ```

@@ -1,0 +1,32 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*-Scenes.csv
+*_Markers.mid
+*_ClipTrack.aaf
+
+# Agent & Internal Memory / Strategy Files
+V2_Project_Memory.md
+*_Plan.md
+PR_Launch_Strategy.md
+*.log
+
+# Export & Build Folders
+VCut_Exports/
+VCut2DAW_Exports/
+builds/
+releases/
+build/
+dist/
+*.spec
+*.zip
+
+# Video & Media Test Files
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wmv
+*.aaf

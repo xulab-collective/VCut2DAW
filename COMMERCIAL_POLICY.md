@@ -43,18 +43,18 @@ Proje getiren şirketin ve kurucuların emeğinin korunması ve dışarıdan gel
 ### 2. Co-Yazılımcı Kâr Havuzu ve Debug/QA Lisans Ödülü Ayrımı
 Maaş ödemeden üst düzey mühendis çekmek ile saha testçilerini ödüllendirmek birbirine karıştırılmaz:
 
-| Katkı Seviyesi ve Türü | Kimler Dahildir? | Karşılık ve Ödüllendirme Modeli | Puan ve Çarpan |
+| Katkı Seviyesi ve Discord Rolü | Kimler Dahildir? | Karşılık, Yetki ve Ödüllendirme Modeli | Puan ve Çarpan |
 | :--- | :--- | :--- | :---: |
-| **`Tier-1` // Çekirdek Mimari, DSP ve AI Motoru** | C++/Rust/JUCE motoru, gerçek zamanlı DSP, tensor ve LLM eğitimi, AAF/OTIO/MCP çekirdeği yazanlar | **Kâr Payı Havuzu Ortağı** | **`500 – 2.500 Puan`**<br>*Çarpan: `2.0x`* |
-| **`Tier-2` // Ana Özellik ve Modül Geliştirme** | Yeni fonksiyonel modül, masaüstü UI/UX mimarisi, yeni DAW ve format entegrasyonu yazanlar | **Kâr Payı Havuzu Ortağı** | **`100 – 500 Puan`**<br>*Çarpan: `1.5x`* |
-| **`Tier-3` // Küçük Hata Çözümü ve Yama** | Tekil çökme çözümü, küçük yama veya dokümantasyon PR'ı gönderenler | **Kâr havuzuna girmez:** **Ücretsiz Pro Lisans** ve proje kâra geçtiğinde **Tek Seferlik Nakit Ödül** | **Sabit Ödül ve Lisans** |
-| **`Tier-4` // Saha Testi ve Geri Bildirim** | Programı sahada test eden, hata raporlayan ve iş akışı geri bildirimi veren pratisyenler | **Kâr havuzuna girmez:** **Xulab Seçkisi Ücretsiz `Lifetime Core / Pro` Lisansı** ve Erken Erişim | **Ücretsiz Lisans Erişimi** |
+| **`Tier 0` // Community** | Topluluğa katılan tüm üyeler ve açık kaynak kullanıcıları | Tüm açık kaynak `AGPLv3` araçlara, ortak AR-GE kanallarına ve açık eğitimlere ücretsiz erişim | **Açık Erişim** |
+| **`Tier 1` // Tester & Creator** | Saha testi ve debug yapanlar, somut bug raporu paylaşanlar, video/eğitim/içerik üretenler, küçük yama gönderenler ve aktif destek verenler | **Kâr havuzuna girmez:** **İlk 50 Seçkisi Doğrudan `Lifetime V1 Access` / Ücretsiz Pro Lisans** ve proje kâra geçtiğinde **Tek Seferlik Ödül** | **Lifetime V1 Access ve Sabit Ödül** |
+| **`Tier 2` // Major Developer** | Yeni fonksiyonel modül, major feature, masaüstü UI/UX mimarisi, yeni DAW/format entegrasyonu ve algoritma geliştirenler | **Kâr Payı Havuzu Ortağı** | **`100 – 500 Puan`**<br>*Çarpan: `1.5x`* |
+| **`Tier 3` // Council & Team Lead** | Hem çekirdek mimari, DSP/AI motoru geliştiren Major Developer ve Team Lead olan, hem de tüm Manifesto, Protokol ve Meclis kurallarını eksiksiz kabul etmiş **Üretici Meclisi** üyeleri | **Kâr Payı Havuzu Ortağı + Üretici Meclisi Üyeliği + Proje `Lead / Council Sponsor` Yetkisi** | **`500 – 2.500 Puan`**<br>*Çarpan: `2.0x`* |
 
 ---
 
 ## 03 // HAK EDİŞ, ERİME VE TAVAN REFERANS DEĞERLERİ
 
-`Tier-1` ve `Tier-2` Co-Yazılımcılar için geçerli standart koruma parametreleri:
+`Tier 2` ve `Tier 3` Co-Yazılımcılar için geçerli standart koruma parametreleri:
 
 | Mekanizma | Zorunlu Sınır | Tavsiye Edilen Standart Değer | Koruma Kuralı |
 | :--- | :---: | :---: | :--- |
@@ -95,8 +95,8 @@ Xulab çatısı altında yeni bir yazılım projesi açmak isteyen herkes, aşa�
 - **Co-Yazılımcı Kâr Payı Havuzu Oranı // Model B:** Net Ticari Gelirin %[15]'i // Zorunlu Taban: %5-%10
 - **Kurucu Çekirdek Baz Puanı // Founder Baseline:** [10.000 Puan]
 - **Ödüllendirme Ayrımı:**
-  - Tier-1 & Tier-2 // Co-Yazılımcılar / Çekirdek ve Modül Geliştirme: Slicing Pie Kâr Havuzu Ortağı
-  - Tier-3 & Tier-4 // Debug / QA / Saha Testi: Ücretsiz Pro/Lifetime Lisans ve Tek Seferlik Bug Bounty
+  - Tier 2 & Tier 3 // Major Developer & Council Lead: Slicing Pie Kâr Havuzu Ortağı
+  - Tier 1 // Tester & Creator / Debug / QA / Video: Doğrudan Lifetime V1 Access / Ücretsiz Pro Lisans ve Tek Seferlik Bug Bounty
 - **Hak Ediş Parametreleri // Model B:**
   - Cliff // Uçurum Süresi: [6 Ay]
   - Vesting // Kademeli Hak Ediş: [%25 Cliff sonunda + %75 takip eden 3 sürümde]
@@ -138,12 +138,12 @@ This document defines the **mandatory minimum floors, Founder Baseline protectio
 - If an external Co-Developer contributes a `1,000-Point` module, they receive $\frac{1,000}{10,000 + 1,000} = 9.09\%$ of the pool, while the remaining `90.91%` stays with the founding entity. **No single small contribution can ever swallow the entire pool.**
 
 ### 2. Co-Developers vs. Debug / QA
-| Contribution Tier & Type | Who Qualifies? | Compensation Model | Points / Multiplier |
+| Contribution Tier & Discord Role | Who Qualifies? | Authority & Compensation Model | Points / Multiplier |
 | :--- | :--- | :--- | :---: |
-| **`Tier-1` // Core Architecture, DSP & AI Engine** | Builders of C++/Rust/JUCE engines, real-time DSP, tensor/LLM training, AAF/OTIO/MCP core | **Profit Pool Partner** | **`500 – 2,500 Pts`**<br>*Multiplier: `2.0x`* |
-| **`Tier-2` // Major Feature & Module Engineering** | Builders of new functional modules, UI/UX architecture, DAW/format integrations | **Profit Pool Partner** | **`100 – 500 Pts`**<br>*Multiplier: `1.5x`* |
-| **`Tier-3` // Minor Bug Fix & Patch** | Single crash fixes, minor patches, documentation PRs | **Not in equity pool:** **Free Pro License** + **One-Off Cash `Bug Bounty`** | **Fixed Bounty / License** |
-| **`Tier-4` // Field Testing & Workflow Feedback** | Practitioners testing builds, reporting bugs, and validating workflows | **Not in equity pool:** **Free `Lifetime Core / Pro` License** & Early Access | **Free License Access** |
+| **`Tier 0` // Community** | All community members and open-source practitioners | Free access to all `AGPLv3` open-source tools, R&D channels, and open education | **Open Access** |
+| **`Tier 1` // Tester & Creator** | Field testers, debug/bug reporters, tutorial/video & content creators, minor patch contributors, and active supporters | **Not in equity pool:** **First-50 Roster Direct `Lifetime V1 Access` / Free Pro License** + **One-Off Cash `Bug Bounty`** | **Lifetime V1 Access & Fixed Bounty** |
+| **`Tier 2` // Major Developer** | Builders of major features, new functional modules, UI/UX architecture, and DAW/format integrations | **Profit Pool Partner** | **`100 – 500 Pts`**<br>*Multiplier: `1.5x`* |
+| **`Tier 3` // Council & Team Lead** | Senior builders serving as Core Architecture / DSP / AI Major Developers & Team Leads who explicitly accept all Manifesto, Protocol, and Producer Council rules | **Profit Pool Partner + Producer Council Seat + Project `Lead / Council Sponsor` Authority** | **`500 – 2,500 Pts`**<br>*Multiplier: `2.0x`* |
 
 ---
 
@@ -174,8 +174,8 @@ This document defines the **mandatory minimum floors, Founder Baseline protectio
 - **Co-Developer Profit Pool Share // Model B:** [15]% of Net Commercial Revenue // Mandatory Floor: 5%–10%
 - **Founder Baseline Points:** [10,000 Points]
 - **Reward Separation:**
-  - Tier-1 & Tier-2 // Co-Developers / Core & Module Engineering: Slicing Pie Profit Pool Partners
-  - Tier-3 & Tier-4 // Debug / QA / Field Testing: Free Pro/Lifetime License & One-Off Bug Bounties
+  - Tier 2 & Tier 3 // Major Developers & Council Leads: Slicing Pie Profit Pool Partners
+  - Tier 1 // Testers & Creators / Debug / QA / Video: Direct Lifetime V1 Access / Free Pro License & One-Off Bug Bounties
 - **Vesting & Point Parameters // Model B:**
   - Cliff Period: [6 Months]
   - Vesting Schedule: [25% at Cliff + 75% across next 3 releases]

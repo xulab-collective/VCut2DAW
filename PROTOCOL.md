@@ -75,7 +75,7 @@ Yazılım projelerinin yanı sıra, [`ROADMAP.md`](ROADMAP.md) içindeki sürekl
                                                  │
         ┌────────────────────────────────────────┼────────────────────────────────────────┐
         ▼                                        ▼                                        ▼
-[ WORKING GROUPS // WG-01..05 ]  [ MODEL A: %100 FREE PROJELER ]      [ MODEL B: TÜZEL / DUAL-LICENSE PROJELER ]
+[ WORKING GROUPS // WG-01..07 ]  [ MODEL A: %100 FREE PROJELER ]      [ MODEL B: TÜZEL / DUAL-LICENSE PROJELER ]
 • Chair/Lead + Council Sponsor   • Lead + Council Sponsor ile başlar  • Lead + Council Sponsor + Kilitli Charter
 • Eğitim, Anti-Mobbing, QA, AI   • Saf AGPLv3 ile herkese ücretsiz    • Motor tam açık AGPLv3, Hizmet Dual-License
 • Ortak AR-GE ve Standartlar     • Gönüllü bireysel destek alabilir   • ZORUNLU: Havuzun %5-%15'ini Co-Yazılımcılara
